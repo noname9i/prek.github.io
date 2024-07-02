@@ -232,13 +232,13 @@ nav {
     color: var(--primary-color);
   }
 
-  .hire__me {
+  .contact__us {
     padding: 1rem 1.5rem;
     border-radius: 5px;
     box-shadow: 10px 10px 15px #d7dbe6, -10px -10px 15px var(--white);
   }
 
-  .hire__me:hover {
+  .contact__us:hover {
     color: var(--white) !important;
     background-color: var(--primary-color);
   }
